@@ -17,6 +17,7 @@ Hi! I'm Daniel and I'm currently a Staff Software Engineer at [Flipp](https://co
 </a>
 
 I live in Toronto with my wife and four children.
+<br/>
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorner&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
