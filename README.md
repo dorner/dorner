@@ -1,6 +1,8 @@
 ### Daniel Orner's Home
 
-Hi! I'm Daniel and I'm currently a Staff Software Engineer at [Flipp](https://corp.flipp.com/). I primarily work in Ruby and JavaScript, but I've dabbled in a number of languages including Java, Python, Scala and Go. In the past few years I've been working heavily in Kafka and have created and/or maintain the following open-source repos:
+Hi! I'm Daniel and I'm currently a Staff Software Engineer at [Flipp](https://corp.flipp.com/). I primarily work in Ruby and JavaScript, but I've dabbled in a number of languages including Java, Python, Scala and Go. I live in Toronto with my wife and four children.
+
+In the past few years I've been working heavily in Kafka and have created and/or maintain the following open-source repos:
 
 <a href="https://github.com/flipp-oss/deimos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flipp-oss&repo=deimos" />
@@ -15,12 +17,6 @@ Hi! I'm Daniel and I'm currently a Staff Software Engineer at [Flipp](https://co
 <a href="https://github.com/flipp-oss/fig_tree">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flipp-oss&repo=fig_tree" />
 </a>
-
-<br/>
-
-I live in Toronto with my wife and four children.
-
-<br/>
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorner&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
