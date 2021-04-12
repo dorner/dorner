@@ -15,7 +15,7 @@ Hi! I'm Daniel and I'm currently a Staff Software Engineer at [Flipp](https://co
 <a href="https://github.com/flipp-oss/fig_tree">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flipp-oss&repo=fig_tree" />
 </a>
-
+<br/>
 I live in Toronto with my wife and four children.
 <br/>
 
