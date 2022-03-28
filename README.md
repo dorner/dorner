@@ -39,3 +39,4 @@ In the past few years I've been working heavily in Kafka and have created and/or
 * [How developers can be their own operations department](https://stackoverflow.blog/2021/05/24/how-developers-can-be-their-own-operations-department/)
 * [Centralizing your Docker dependencies](https://medium.com/flippengineering/centralizing-your-docker-dependencies-dd6c537ced4d)
 * [Why SOLID principles are still the foundation for modern software architecture](https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/)
+* [Rewriting Bash scripts in Go using black-box testing](https://stackoverflow.blog/2022/03/09/rewriting-bash-scripts-in-go-using-black-box-testing/)
