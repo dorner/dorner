@@ -43,3 +43,4 @@ In the past few years I've been working heavily in Kafka and have created and/or
 * [Crystal balls and clairvoyance: Future proofing in a world of inevitable change](https://stackoverflow.blog/2022/05/19/crystal-balls-and-clairvoyance-future-proofing-in-a-world-of-inevitable-change/)
 * [Design patterns for asynchronous API communication](https://stackoverflow.blog/2022/07/21/event-driven-topic-design-using-kafka/)
 * [Minimizing the downsides of dynamic programming languages](https://stackoverflow.blog/2023/01/19/adding-structure-to-dynamic-languages/) 
+* [Your tech toolbox: The middle ground between tech chaos and rigidity](https://stackoverflow.blog/2023/03/23/your-tech-toolbox-the-middle-ground-between-tech-chaos-and-rigidity/)
