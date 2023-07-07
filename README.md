@@ -44,3 +44,4 @@ In the past few years I've been working heavily in Kafka and have created and/or
 * [Design patterns for asynchronous API communication](https://stackoverflow.blog/2022/07/21/event-driven-topic-design-using-kafka/)
 * [Minimizing the downsides of dynamic programming languages](https://stackoverflow.blog/2023/01/19/adding-structure-to-dynamic-languages/) 
 * [Your tech toolbox: The middle ground between tech chaos and rigidity](https://stackoverflow.blog/2023/03/23/your-tech-toolbox-the-middle-ground-between-tech-chaos-and-rigidity/)
+* [Building an Unsplash Slide Show on NeoCities](https://dev.to/dorner/building-an-unsplash-slide-show-on-neocities-9mm)
