@@ -6,8 +6,8 @@ In the past few years I've been working heavily in Kafka and have created and/or
 <a href="https://github.com/flipp-oss/deimos">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=flipp-oss&repo=deimos" />
 </a>
-<a href="https://github.com/phobos/phobos">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=phobos&repo=phobos" />
+<a href="https://github.com/phobos/schema_registry_client">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=flipp-oss&repo=schema_registry_client" />
 </a>
 <br/>
 <a href="https://github.com/flipp-oss/sigurd">
