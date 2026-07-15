@@ -4,22 +4,22 @@ Hi! I'm Daniel and I'm currently a Staff Software Engineer at [Flipp](https://co
 
 In the past few years I've been working heavily in Kafka and have created and/or maintain the following open-source repos:
 <a href="https://github.com/flipp-oss/deimos">
-  <img align="center" src="github-stats-extended.vercel.app/api/pin/?username=flipp-oss&repo=deimos" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=flipp-oss&repo=deimos" />
 </a>
 <a href="https://github.com/phobos/phobos">
-  <img align="center" src="github-stats-extended.vercel.app/api/pin/?username=phobos&repo=phobos" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=phobos&repo=phobos" />
 </a>
 <br/>
 <a href="https://github.com/flipp-oss/sigurd">
-  <img align="center" src="github-stats-extended.vercel.app/api/pin/?username=flipp-oss&repo=sigurd" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=flipp-oss&repo=sigurd" />
 </a>
 <a href="https://github.com/flipp-oss/fig_tree">
-  <img align="center" src="github-stats-extended.vercel.app/api/pin/?username=flipp-oss&repo=fig_tree" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=flipp-oss&repo=fig_tree" />
 </a>
 
-[![Daniel's GitHub stats](github-stats-extended.vercel.app/api?username=dorner&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-stats-extended.vercel.app/api?username=dorner&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](github-stats-extended.vercel.app/api/top-langs/?username=dorner&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=dorner&hide=python)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Articles
 
